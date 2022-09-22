@@ -29,6 +29,7 @@ $ cd capstone/3D_CNN_nets
 * target_dir → numpy가 저장될 path 지정
 
 <img width="646" alt="스크린샷 2022-09-22 오후 2 20 00" src="https://user-images.githubusercontent.com/107235450/191664465-e08f172b-f3a2-4150-b338-991fe14de988.png">
+
 ```
 $ python train.py
 ```
