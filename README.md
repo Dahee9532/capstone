@@ -22,8 +22,8 @@ $ python train.py
 ``` 
 $ git clone https://github.com/Dahee9532/capstone.git
 $ cd capstone/3D_CNN_nets
-```
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f25cfd5f-aa10-44d1-8175-420d90a80129/Untitled.png)
+<img width="646" alt="스크린샷 2022-09-22 오후 2 20 00" src="https://user-images.githubusercontent.com/107235450/191664465-e08f172b-f3a2-4150-b338-991fe14de988.png">
+
 
 
 ```
