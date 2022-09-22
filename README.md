@@ -6,12 +6,14 @@
 ### custom_I3D : classfication fine-tuning for I3D
 ```
 $ git clone https://github.com/Dahee9532/capstone.git
+$ cd custom_I3D
 $ python train.py
 ```
 
 ### custom_X3D : classfication fine-tuning for X3D
 ``` 
 $ git clone https://github.com/Dahee9532/capstone.git
+$ cd custom_X3D
 $ python train.py
 ```
 
