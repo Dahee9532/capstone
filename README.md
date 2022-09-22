@@ -18,4 +18,14 @@ $ python train.py
 ```
 
 
-### 3D_CNN_nets ; C3D, P3D, I3D, X3D, SlowFast
+### 3D_CNN_nets ( C3D, P3D, I3D, X3D, SlowFast )
+``` 
+$ git clone https://github.com/Dahee9532/capstone.git
+$ cd capstone/3D_CNN_nets
+```
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f25cfd5f-aa10-44d1-8175-420d90a80129/Untitled.png)
+
+
+```
+$ python train.py
+```
