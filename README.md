@@ -24,7 +24,7 @@ $ git clone https://github.com/Dahee9532/capstone.git
 $ cd capstone/3D_CNN_nets
 ```
 
-#### main.py
+> #### main.py
 * path → 모델, class명 지정
 * target_dir → numpy가 저장될 path 지정
 
