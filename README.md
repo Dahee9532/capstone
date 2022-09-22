@@ -4,9 +4,7 @@
 * torchvision 0.8.0 (built from source)
 
 ### custom_I3D : classfication fine-tuning for I3D
-``` $ python train.py
-```
+``` $ python train.py```
 
 ### custom_X3D : classfication fine-tuning for X3D
-``` $ python train.py
-```
+``` $ python train.py```
