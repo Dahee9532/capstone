@@ -34,3 +34,11 @@ $ cd capstone/3D_CNN_nets
 ```
 $ python train.py
 ```
+
+
+### Reference
+* C3D : https://github.com/jfzhang95/pytorch-video-recognition
+* P3D : https://github.com/qijiezhao/pseudo-3d-pytorch
+* I3D : https://github.com/piergiaj/pytorch-i3d
+* X3D : https://github.com/kkahatapitiya/X3D-Multigrid
+* SlowFast : https://github.com/facebookresearch/SlowFast
